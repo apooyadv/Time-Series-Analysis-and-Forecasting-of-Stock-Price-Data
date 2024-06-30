@@ -49,7 +49,7 @@ Ensure you have the following Python libraries installed:
 ### Contributors
 
 - **Apoorv Yadav** - Student at IISER Bhopal
-- **Sruba Sarkar** - Project Supervisor
+- **Sruba Sarkar** - Project Guide
 
 ### License
 
