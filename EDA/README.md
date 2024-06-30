@@ -32,7 +32,7 @@ The `AAPLEDA.ipynb` notebook contains exploratory data analysis (EDA) for the Ap
 
 To use this notebook:
 - Clone the repository and navigate to the EDA directory.
-- Open AAPLEDA.ipynb using Jupyter Notebook or Jupyter Lab.
+- Open `AAPLEDA.ipynb` using Jupyter Notebook or Jupyter Lab.
 - Execute each cell to load, clean, visualize, and analyze the data as described.
 
 ### Dependencies
