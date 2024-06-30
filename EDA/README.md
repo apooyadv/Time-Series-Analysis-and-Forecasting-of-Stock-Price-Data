@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) Notebook
+## Exploratory Data Analysis (EDA) Notebook
 
 ### Description
 
