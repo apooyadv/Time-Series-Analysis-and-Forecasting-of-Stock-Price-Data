@@ -1,3 +1,5 @@
+##  Model Selection Notebook
+
 This repository contains code and documentation for analyzing and forecasting stock prices, focusing on Apple Inc. The project explores various time series models to predict stock prices and evaluates their performance.
 
 ## Models Implemented
