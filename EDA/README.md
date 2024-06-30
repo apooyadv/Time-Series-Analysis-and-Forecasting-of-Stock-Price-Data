@@ -43,6 +43,8 @@ Ensure you have the following Python libraries installed:
 - matplotlib
 - seaborn
 - statsmodels
+- yfinance
+- mplfinance
 
 ### Contributors
 
