@@ -2,7 +2,7 @@
 
 ### Description
 
-The AAPLEDA.ipynb notebook contains exploratory data analysis (EDA) for the Apple Inc. stock price data. It includes the following sections:
+The `AAPLEDA.ipynb` notebook contains exploratory data analysis (EDA) for the Apple Inc. stock price data. It includes the following sections:
 
 1. **Loading the Data**:
    - Code snippet to load historical stock price data of Apple Inc. using pandas DataFrame.
