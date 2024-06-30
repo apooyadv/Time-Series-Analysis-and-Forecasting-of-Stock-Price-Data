@@ -2,35 +2,35 @@
 
 This repository contains code and documentation for analyzing and forecasting stock prices, focusing on Apple Inc. The project explores various time series models to predict stock prices and evaluates their performance.
 
-## Models Implemented
+### Models Implemented
 
-### ARIMA Model
+#### ARIMA Model
 
 The AutoRegressive Integrated Moving Average (ARIMA) model is implemented to capture temporal dependencies and forecast stock prices.
 
 - **Hyperparameters**: Includes parameters like `p` (autoregressive order), `d` (differencing order), and `q` (moving average order) optimized through grid search or data characteristics.
 
-### GARCH Model
+#### GARCH Model
 
 The Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model is used to analyze volatility clustering in stock returns.
 
 - **Hyperparameters**: Parameters such as `p` (order of the GARCH term) and `q` (order of the ARCH term) are optimized based on model fit and volatility characteristics.
 
-### LSTM Model
+#### LSTM Model
 
 A Long Short-Term Memory (LSTM) neural network is employed to capture complex temporal dependencies in stock price data.
 
 - **Hyperparameters**: Includes settings like number of LSTM units and epochs.
 
-### Facebook Prophet Model
+#### Facebook Prophet Model
 
 The Prophet library by Facebook is utilized for time series forecasting with additive seasonality.
 
 - **Hyperparameters**: Prophet parameter specific seasonality (`weekly_seasonality`, `yearly_seasonality`, `daily_seasonality`) is adjusted for accurate forecasts.
 
-## File Description
+### File Description
 
-### `ModelSelection.ipynb`
+#### `ModelSelection.ipynb`
 
 The `ModelSelection.ipynb` notebook in this repository implements and evaluates the above models. It includes:
 
