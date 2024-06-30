@@ -54,6 +54,12 @@ Ensure you have the following Python libraries installed:
 - matplotlib
 - seaborn
 - statsmodels
+- yfinance
+- sklearn
+- tensorflow
+- pmdarima
+- arch
+- prophet
 
 ### Contributors
 
