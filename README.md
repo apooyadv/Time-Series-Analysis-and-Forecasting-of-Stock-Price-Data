@@ -15,15 +15,16 @@ This repository contains my project on Time Series Analysis and Forecasting of A
 - **TSDecomposition.ipynb**: Jupyter Notebook performing time series decomposition on the stock price data to extract trends, seasonality, and residual components.
 
 ### Model Selection
-#### ModelSelection.ipynb
 
-- **ARIMA_Model**: Implementing the ARIMA (AutoRegressive Integrated Moving Average) model for time series forecasting.
+- **ModelSelection.ipynb**:
   
-- **GARCH_Model**: Applying the GARCH (Generalized Autoregressive Conditional Heteroskedasticity) model to analyze and forecast volatility in stock prices.
-  
-- **LSTM_Model**: Utilizing LSTM (Long Short-Term Memory) networks for deep learning-based time series forecasting.
-  
-- **Prophet_Model**: Using Facebook Prophet, a forecasting tool, to predict future stock prices based on historical trends.
+  - **ARIMA_Model**: Implementing the ARIMA (AutoRegressive Integrated Moving Average) model for time series forecasting.
+    
+  - **GARCH_Model**: Applying the GARCH (Generalized Autoregressive Conditional Heteroskedasticity) model to analyze and forecast volatility in stock prices.
+    
+  - **LSTM_Model**: Utilizing LSTM (Long Short-Term Memory) networks for deep learning-based time series forecasting.
+    
+  - **Prophet_Model**: Using Facebook Prophet, a forecasting tool, to predict future stock prices based on historical trends.
 
 ## Usage
 
