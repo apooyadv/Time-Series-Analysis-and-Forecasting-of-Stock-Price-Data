@@ -39,10 +39,27 @@ The `ModelSelection.ipynb` notebook in this repository implements and evaluates 
 
 This notebook serves as a comprehensive guide to selecting and applying different time series models for forecasting stock prices, providing insights into their applicability and performance characteristics.
 
-## Usage
+### Usage
 
-Clone the repository and run the `ModelSelection.ipynb` notebook to explore and experiment with different time series models for stock price forecasting.
+To use this notebook:
+- Clone the repository and navigate to the Mdel Selection directory.
+- Open ModelSelection.ipynb using Jupyter Notebook or Jupyter Lab.
+- Execute each cell to load, clean, visualize, and analyze the data as described.
 
-## License
+### Dependencies
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Ensure you have the following Python libraries installed:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- statsmodels
+
+### Contributors
+
+- **Apoorv Yadav** - Student at IISER Bhopal
+- **Sruba Sarkar** - Project Guide
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/apooyadv/Time-Series-Analysis-and-Forecasting-of-Stock-Price-Data/blob/main/LICENSE) file for details.
